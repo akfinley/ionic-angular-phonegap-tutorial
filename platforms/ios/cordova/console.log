@@ -1,0 +1,25 @@
+2015-05-11 15:03:58.181 Dynamic Sports[11290:166044] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/anna/Library/Developer/CoreSimulator/Devices/BDAABCA0-44AD-4FA2-99D7-7239D26B1C94/data/Containers/Data/Application/FA227F42-9D4A-4697-8DB6-110B31777B56/Library/Cookies/Cookies.binarycookies
+2015-05-11 15:03:58.291 Dynamic Sports[11290:166044] Apache Cordova native platform version 3.8.0 is starting.
+2015-05-11 15:03:58.292 Dynamic Sports[11290:166044] Multi-tasking -> Device: YES, App: YES
+2015-05-11 15:03:58.295 Dynamic Sports[11290:166044] Unlimited access to network resources
+2015-05-11 15:03:58.300 Dynamic Sports[11290:166044] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-05-11 15:03:58.445 Dynamic Sports[11290:166044] CDVPlugin class CDVStatusBar (pluginName: statusbar) does not exist.
+2015-05-11 15:03:58.446 Dynamic Sports[11290:166044] [CDVTimer][statusbar] 0.240982ms
+2015-05-11 15:03:58.446 Dynamic Sports[11290:166044] CDVPlugin class CDVFile (pluginName: file) does not exist.
+2015-05-11 15:03:58.446 Dynamic Sports[11290:166044] [CDVTimer][file] 0.171959ms
+2015-05-11 15:03:58.446 Dynamic Sports[11290:166044] [CDVTimer][TotalPluginStartup] 0.787973ms
+2015-05-11 15:03:59.024 Dynamic Sports[11290:166044] Resetting plugins due to page load.
+2015-05-11 15:03:59.525 Dynamic Sports[11290:166044] Finished load of: file:///Users/anna/Library/Developer/CoreSimulator/Devices/BDAABCA0-44AD-4FA2-99D7-7239D26B1C94/data/Containers/Bundle/Application/78DA472E-B740-4E8C-BC5C-2967E44B1BE5/Dynamic%20Sports.app/www/index.html#/home
+2015-05-11 15:03:59.636 Dynamic Sports[11290:166044] CDVPlugin class CDVStatusBar (pluginName: StatusBar) does not exist.
+2015-05-11 15:03:59.637 Dynamic Sports[11290:166044] ERROR: Plugin 'StatusBar' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-11 15:03:59.637 Dynamic Sports[11290:166044] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["INVALID","StatusBar","_ready",[]]
+2015-05-11 15:03:59.657 Dynamic Sports[11290:166044] CDVPlugin class CDVDevice (pluginName: Device) does not exist.
+2015-05-11 15:03:59.658 Dynamic Sports[11290:166044] ERROR: Plugin 'Device' not found, or is not a CDVPlugin. Check your plugin mapping in config.xml.
+2015-05-11 15:03:59.658 Dynamic Sports[11290:166044] -[CDVCommandQueue executePending] [Line 159] FAILED pluginJSON = ["Device1100379017","Device","getDeviceInfo",[]]
